@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📫 How to reach me :
-- Discord: Topaze#1641
+- Discord: topaaze
 
 🔭 Projects :
 - Optimization tool for Windows 11: [lain.bat](https://github.com/Nyaldee/lain.bat)
